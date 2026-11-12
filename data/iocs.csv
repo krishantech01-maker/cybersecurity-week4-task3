@@ -1,0 +1,4 @@
+indicator_type,indicator_value,threat_type,malware_family,source,confidence_score
+IPv4,185.220.101.4,Command and Control,AsyncRAT,AbuseIPDB,98%
+Domain,update-security-login.com,Credential Phishing,Generic Phish,OpenPhish,92%
+SHA256,a4b8c9d2e1f0567890abcdef1234567890abcdef1234567890abcdef12345678,InfoStealer Payload,RedLine Stealer,MalwareBazaar,100%
